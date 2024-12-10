@@ -33,7 +33,15 @@ Realiza algunos cambios en el archivo que creaste.
 Añade y haz un commit con los cambios en la rama "development".
 Sube los cambios a Github.
 
-![Descripción de la imagen](/img/commit%20y%20push.jpg)
+![Descripción de la imagen](/img/creacion%20y%20cambio%20de%20rama.jpg)
+![Descripción de la imagen](/img/comiit%20nueva%20rama.jpg)
 
 
+5. Hacer un merge
 
+Vuelve a la rama "main".
+Haz un merge de la rama "development" a la rama "main".
+Si no hay conflictos, los cambios realizados en la rama "development" se incorporarán a la rama "main".
+Hax un push de los cambios al repositorio en GitHub.
+
+![Descripción de la imagen](/img/merge%20de%20rama%20.jpg)
