@@ -15,3 +15,25 @@ Conecta tu repositorio local con el repositorio en GitHub.
 Verifica que la conexión se haya establecido correctamente.
 
 ![Descripción de la imagen](/img/clonar.jpg)
+
+3. Hacer un commit y un push
+
+Crea un archivo en la carpeta del repositorio.
+Añade el archivo al staging.
+Crea un commit con un mensaje descriptivo.
+Sube los cambios al repositorio en GitHub.
+
+![Descripción de la imagen](/img/commit%20y%20push.jpg)
+
+4. Crear una rama
+
+Crea una rama nueva llamada "development".
+Cambia a la nueva rama.
+Realiza algunos cambios en el archivo que creaste.
+Añade y haz un commit con los cambios en la rama "development".
+Sube los cambios a Github.
+
+![Descripción de la imagen](/img/commit%20y%20push.jpg)
+
+
+
